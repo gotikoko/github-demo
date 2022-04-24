@@ -1,5 +1,10 @@
 # Python program to illustrate functions
 # Functions can return another function
+import yeld as y
+
+print (y.num)
+
+
 
 def create_adder(x):
 	def adder(y):
