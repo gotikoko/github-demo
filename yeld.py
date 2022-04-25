@@ -19,3 +19,4 @@ for num in nextSquare():
 		break
 	print(num)
 
+#pppp
